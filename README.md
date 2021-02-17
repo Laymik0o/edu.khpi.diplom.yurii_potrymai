@@ -32,5 +32,5 @@ For start -> run.py
 
 ### P.S.
 ```
-Нужно было послушать эту песню на до того как заливать этот код на гит -> https://www.youtube.com/watch?v=hgI0p1zf31k
+Нужно было послушать эту песню до того как заливать этот код на гит -> https://www.youtube.com/watch?v=hgI0p1zf31k
 ```
